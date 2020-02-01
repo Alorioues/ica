@@ -1,4 +1,4 @@
-roup Project
+Group Project
 A list of the following mini projects will be listed.
 
 1. See Human and say a greeting
