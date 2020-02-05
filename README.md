@@ -22,7 +22,11 @@ The github should include (but no limiting to)
 4. Any discussions about the project
 
 Task 1 - Dominic
+
 Task 2 - Justin
+
 Task 3 - Damian
+
 Task 5 - Caleb
+
 Task 7 - Edwin
