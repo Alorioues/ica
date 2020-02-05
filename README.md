@@ -12,21 +12,9 @@ After pick up, user will tap and then cozmo will stack on that cube.
 7. 
 Proposal - 2 other functions
 
-Each student in the team selects a task to undertake
-The more challenging tasks will warrant better grades.
-As a group create a github account and grant me access (GilbertChanNYP@gmail.com)
-The github should include (but no limiting to)
-1. Gantt chat of the schedule of task to be done
-2. Screen shot of your code
-3. Exported code (version control)
-4. Any discussions about the project
 
 Task 1 - Dominic
-
 Task 2 - Justin
-
 Task 3 - Damian
-
 Task 5 - Caleb
-
 Task 7 - Edwin
