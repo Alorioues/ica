@@ -14,7 +14,11 @@ Proposal - 2 other functions
 
 
 Task 1 - Dominic
+
 Task 2 - Justin
+
 Task 3 - Damian
+
 Task 5 - Caleb
+
 Task 7 - Edwin
