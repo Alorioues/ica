@@ -9,8 +9,7 @@ and sing song
 5. Tap a cube and pick up the one tap
 6. Predefine a cube to pick up. 
 After pick up, user will tap and then cozmo will stack on that cube.
-7. 
-Proposal - 2 other functions
+7. Proposal - 2 other functions
 
 
 Task 1 - Dominic
